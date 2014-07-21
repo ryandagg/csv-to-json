@@ -1,4 +1,6 @@
-name,age,city
-Rene,35,Vancouver
-Thomas,29,Portland
-Lexi,28,Seattle
+name,age,city,aHead
+Rene,35,Vancouver,test0
+Thomas,29,Portland,test1
+Lexi,28,Seattle,test2
+Lexi,28,Seattle,test3
+Ryan,32,Denver,test4
